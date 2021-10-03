@@ -26,17 +26,17 @@ To use datetime data correctly it needs to convert the "tripduration" column fro
 
 First 2 visualizations are to show how long bikes are checked out for all riders and genders.
 
-![image](https://user-images.githubusercontent.com/68247343/135767408-8d237150-ce7b-4a36-8552-2d67292b4b62.png)
+![image](https://user-images.githubusercontent.com/68247343/135767508-e601fa45-c5db-4ed1-9fb8-d96378a78aae.png)
 
- Next, How many trips are taken by the hour for each day of the week, for all riders and genders.
+Next, How many trips are taken by the hour for each day of the week, for all riders and genders.
 
- A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender
+A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender
 
-![image](https://user-images.githubusercontent.com/68247343/135767414-c1926aa8-930b-4cbf-ba97-e71a68bc9734.png)
+![image](https://user-images.githubusercontent.com/68247343/135767525-3ed5b4ea-bb26-4682-8353-cf0cd2ea84e7.png)
 
 Additionally, as learning other details about the riders will further assist the analysis. So, there are two visualizations that show usertype trips by weekday and by age. 
 
-![image](https://user-images.githubusercontent.com/68247343/135767418-58e0d74b-f4dd-4ff8-87cc-5410b0549d1b.png)
+![image](https://user-images.githubusercontent.com/68247343/135767537-bd5ea111-8bb1-4808-9f16-4116b2300de1.png)
 
 ### `- Story for the Final Presentation`	
 
@@ -44,7 +44,7 @@ Create a Story and Report for the Final Presentation
 
 [link to dashboard](https://public.tableau.com/app/profile/olesya.irkhina/viz/Challenge14_5_16332597080320/Stories_Keyfindings?publish=yes)
 
-![image](https://user-images.githubusercontent.com/68247343/135767427-65132099-43ee-47b3-88c5-76df8e8b6ea5.png)
+![image](https://user-images.githubusercontent.com/68247343/135767557-98e5d828-f680-4ec7-bb14-6043e6c6cda9.png)
 
 ## `Bikesharing Analysis Summary`	
 
