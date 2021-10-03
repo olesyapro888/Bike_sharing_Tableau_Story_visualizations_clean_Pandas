@@ -4,9 +4,9 @@
 - [Overview of the Project](#overview-of-the-Bikesharing-Analysis)	
 - [Resources](#resources)	
 - [The Bikesharing Analysis Result](#Bikesharing-Analysis-Result)	
-  - [The cleaning data for the NYC Citibike analysis](#The-cleaning-data-for-the-NYC-Citibike-analysis)	
-  - [Seven visualizations for the NYC Citibike analysis](#Seven-visualizations-for-the-NYC-Citibike-analysis)
-  - [Story for the Final Presentation](#Story-for-the-Final-Presentation)
+  - [The cleaning data for the Bikesharing analysis](#-The-cleaning-data-for-the-Bikesharing-analysis)	
+  - [Seven visualizations for the Bikesharing analysis](#-Seven-visualizations-for-the-Bikesharing-analysis)
+  - [Story for the Final Presentation](#-Story-for-the-Final-Presentation)
 - [The Bikesharing Analysis Summary](#Bikesharing-Analysis-Summary)	
 ## `Overview of the Bikesharing Analysis`	
 	
@@ -19,10 +19,10 @@ The purpose for the bikesharing analysis challenge is to create a story in Table
 ## `Resources`	
 The analysis is created using next software: Python 3.8.8, Pandas 1.2.4, Jupyter-notebook 6.3.0, Tableau Public 2021.3.	
 ## `Bikesharing Analysis Result`	
-### `- The cleaning data for the NYC Citibike analysis`	
+### `- The cleaning data for the Bikesharing analysis`	
 
 To use datetime data correctly it needs to convert the "tripduration" column from an integer to a datetime datatype by Pandas. The result of that can be found in the [Bikesharing_Challenge](./NYC_Citibike_Challenge.ipynb) file.	
-### `- Seven visualizations for the NYC Citibike analysis`	
+### `- Seven visualizations for the Bikesharing analysis`	
 
 First 2 visualizations are to show how long bikes are checked out for all riders and genders.
 
