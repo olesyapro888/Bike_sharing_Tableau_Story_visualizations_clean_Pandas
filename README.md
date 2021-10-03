@@ -4,9 +4,9 @@
 - [Overview of the Project](#overview-of-the-Bikesharing-Analysis)	
 - [Resources](#resources)	
 - [The Bikesharing Analysis Result](#Bikesharing-Analysis-Result)	
-  - [The cleaning data for the Bikesharing analysis](#-The-cleaning-data-for-the-Bikesharing-analysis)	
-  - [Seven visualizations for the Bikesharing analysis](#-Seven-visualizations-for-the-Bikesharing-analysis)
-  - [Story for the Final Presentation](#-Story-for-the-Final-Presentation)
+  - [The cleaning data for the Bikesharing analysis](#the-cleaning-data-for-the-Bikesharing-analysis)	
+  - [Seven visualizations for the Bikesharing analysis](#seven-visualizations-for-the-Bikesharing-analysis)
+  - [Story for the Final Presentation](#Story-for-the-Final-Presentation)
 - [The Bikesharing Analysis Summary](#Bikesharing-Analysis-Summary)	
 ## `Overview of the Bikesharing Analysis`	
 	
@@ -24,23 +24,31 @@ The analysis is created using next software: Python 3.8.8, Pandas 1.2.4, Jupyter
 To use datetime data correctly it needs to convert the "tripduration" column from an integer to a datetime datatype by Pandas. The result of that can be found in the [Bikesharing_Challenge](./NYC_Citibike_Challenge.ipynb) file.	
 ### `- Seven visualizations for the Bikesharing analysis`	
 
-First 2 visualizations are to show how long bikes are checked out for all riders and genders.
+First 2 visualizations show how long bikes are checked out for all riders and genders. 
+So, the chart "Checkout Times for Users" shows that almost 80% of all checked out times is less than 20 minutes and 50% is less than 10 mins for checked out times for all riders. As male customers are 65% and female line chart shows the same graph it allows to say that almost 80% of all checked out times is less 20 minutes for genders.
 
 ![image](https://user-images.githubusercontent.com/68247343/135767508-e601fa45-c5db-4ed1-9fb8-d96378a78aae.png)
 
-Next, How many trips are taken by the hour for each day of the week, for all riders and genders.
+Next visualizations show the trips are taken by the hour for each day of the week for all riders and genders.
 
-A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender
+So, the heatmap chart shows that the most of busy weekdays are 8am-9am from Monday to Friday and weekends are from 10am-5pm for all riders.
+
+Also, as male customers are 65% it allows to say that the heatmap chart shows the same tendance of number of bike trips for the same hours during weekdays by gender.
 
 ![image](https://user-images.githubusercontent.com/68247343/135767525-3ed5b4ea-bb26-4682-8353-cf0cd2ea84e7.png)
 
-Additionally, as learning other details about the riders will further assist the analysis. So, there are two visualizations that show usertype trips by weekday and by age. 
+Additionally, as learning the rider customers will important assist the analysis there are two visualizations that show usertype trips by weekday and by age. 
+
+So, the bar charts show that the most occupied weekdays are Thursday and Fridays for Subscribers and Saturdays and Sundays for Customers.
+However Customers have longer trips then Subscribers.
+
+If we take a look at the area chart "Usertype trips by Age" which shows that young riders use a bike more often then older. But Customers have longer trips then Subscribers for all ages. 
 
 ![image](https://user-images.githubusercontent.com/68247343/135767537-bd5ea111-8bb1-4808-9f16-4116b2300de1.png)
 
 ### `- Story for the Final Presentation`	
 
-Create a Story and Report for the Final Presentation
+The created Story for the Final Presentation can be found in the following link:
 
 [link to dashboard](https://public.tableau.com/app/profile/olesya.irkhina/viz/Challenge14_5_16332597080320/Stories_Keyfindings?publish=yes)
 
@@ -48,4 +56,11 @@ Create a Story and Report for the Final Presentation
 
 ## `Bikesharing Analysis Summary`	
 
-The analysis provides a lot of summarizing. But the main are:
+The analysis provides a lot of summarizing. 
+But the main show following:
+- Almost 80% of all checked out times is less than 20 minutes and 50% is less than 10 mins for checked out times for all riders. As male customers are 65% and female line chart shows the same graph it allows to say that almost 80% of all checked out times is less 20 minutes for genders.
+
+- The most of busy weekdays are 8am-9am from Monday to Friday and weekends are from 10am-5pm for all riders.
+Also, as male customers are 65% it allows to say that the heatmap chart shows the same tendance of number of bike trips for the same hours during weekdays by gender.
+
+ - The most occupied weekdays are Thursday and Fridays for Subscribers and Saturdays and Sundays for Customers. However Customers have longer trips then Subscribers. Additionally young riders use a bike more often then older, but Customers have longer trips then Subscribers for all ages. 
