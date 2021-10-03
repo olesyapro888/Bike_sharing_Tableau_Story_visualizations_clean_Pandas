@@ -26,24 +26,25 @@ To use datetime data correctly it needs to convert the "tripduration" column fro
 
 First 2 visualizations are to show how long bikes are checked out for all riders and genders.
 
-screen db Checkout
+![image](https://user-images.githubusercontent.com/68247343/135767408-8d237150-ce7b-4a36-8552-2d67292b4b62.png)
 
  Next, How many trips are taken by the hour for each day of the week, for all riders and genders.
 
  A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender
 
- screen db Weekday
+![image](https://user-images.githubusercontent.com/68247343/135767414-c1926aa8-930b-4cbf-ba97-e71a68bc9734.png)
 
 Additionally, as learning other details about the riders will further assist the analysis. So, there are two visualizations that show usertype trips by weekday and by age. 
 
-screen db Usertype
+![image](https://user-images.githubusercontent.com/68247343/135767418-58e0d74b-f4dd-4ff8-87cc-5410b0549d1b.png)
+
 ### `- Story for the Final Presentation`	
 
 Create a Story and Report for the Final Presentation
 
 [link to dashboard](https://public.tableau.com/app/profile/olesya.irkhina/viz/Challenge14_5_16332597080320/Stories_Keyfindings?publish=yes)
 
-screen Stories
+![image](https://user-images.githubusercontent.com/68247343/135767427-65132099-43ee-47b3-88c5-76df8e8b6ea5.png)
 
 ## `Bikesharing Analysis Summary`	
 
