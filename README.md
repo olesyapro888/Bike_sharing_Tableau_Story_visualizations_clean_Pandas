@@ -33,7 +33,7 @@ Next visualizations show the trips are taken by the hour for each day of the wee
 
 So, the heatmap chart shows that the most of busy weekdays are 8am-9am from Monday to Friday and weekends are from 10am-5pm for all riders.
 
-Also, as male customers are 65% it allows to say that the heatmap chart shows the same tendance of number of bike trips for the same hours during weekdays by gender.
+Also, as male customers are 65% it allows to say that the heatmap chart shows the same tendance of number of bike trips for the same hours during weekdays by genders.
 
 ![image](https://user-images.githubusercontent.com/68247343/135767525-3ed5b4ea-bb26-4682-8353-cf0cd2ea84e7.png)
 
@@ -50,7 +50,7 @@ If we take a look at the area chart "Usertype trips by Age" which shows that you
 
 The created Story for the Final Presentation can be found in the following link:
 
-[link to dashboard](https://public.tableau.com/app/profile/olesya.irkhina/viz/Challenge14_5_16332597080320/Stories_Keyfindings?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/olesya.irkhina/viz/Challenge14_5_16332597080320/Story_Keyfindings?publish=yes)
 
 ![image](https://user-images.githubusercontent.com/68247343/135767557-98e5d828-f680-4ec7-bb14-6043e6c6cda9.png)
 
@@ -61,6 +61,6 @@ But the main show following:
 - Almost 80% of all checked out times is less than 20 minutes and 50% is less than 10 mins for checked out times for all riders. As male customers are 65% and female line chart shows the same graph it allows to say that almost 80% of all checked out times is less 20 minutes for genders.
 
 - The most of busy weekdays are 8am-9am from Monday to Friday and weekends are from 10am-5pm for all riders.
-Also, as male customers are 65% it allows to say that the heatmap chart shows the same tendance of number of bike trips for the same hours during weekdays by gender.
+Also, as male customers are 65% it allows to say that the heatmap chart shows the same tendance of number of bike trips for the same hours during weekdays by genders.
 
  - The most occupied weekdays are Thursday and Fridays for Subscribers and Saturdays and Sundays for Customers. However Customers have longer trips then Subscribers. Additionally young riders use a bike more often then older, but Customers have longer trips then Subscribers for all ages. 
