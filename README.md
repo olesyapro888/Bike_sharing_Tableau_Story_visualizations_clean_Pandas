@@ -1,4 +1,5 @@
-# Bikesharing analysis. Project 14 of the UofT.
+# Bikesharing analysis. The project 14 of the University of Toronto.
+
 ## `-Contents-`	
 	
 - [Overview of the Project](#overview-of-the-Bikesharing-Analysis)	
@@ -8,9 +9,10 @@
   - [Seven visualizations for the Bikesharing analysis](#seven-visualizations-for-the-Bikesharing-analysis)
   - [Story for the Final Presentation](#Story-for-the-Final-Presentation)
 - [The Bikesharing Analysis Summary](#Bikesharing-Analysis-Summary)	
+
 ## `Overview of the Bikesharing Analysis`	
 	
-The purpose for the bikesharing analysis challenge is to create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis with a set of visualizations:
+The purpose of the bikesharing analysis challenge is to create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis with a set of visualizations:
   - The length of time that bikes are checked out for all riders and genders.
   - The number of bike trips for all riders and genders for each hour of each day of the week.
   - The number of bike trips for each type of user and gender for each day of the week.
@@ -18,6 +20,7 @@ The purpose for the bikesharing analysis challenge is to create a story in Table
 
 ## `Resources`	
 The analysis is created using next software: Python 3.8.8, Pandas 1.2.4, Jupyter-notebook 6.3.0, Tableau Public 2021.3.	
+
 ## `Bikesharing Analysis Result`	
 ### `- The cleaning data for the Bikesharing analysis`	
 
