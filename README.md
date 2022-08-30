@@ -1,4 +1,4 @@
-# Bikesharing analysis. The project 14 of the University of Toronto.
+# Bike-sharing set of interactive visualizations using Pandas and Tableau.
 
 ## `-Contents-`	
 	
